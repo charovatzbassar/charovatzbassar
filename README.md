@@ -1,7 +1,7 @@
 <h1>Hi! 👋</h1>
 <hr/>
 <h2>About me: </h2>
-💬 I am an IT student from Sarajevo. <br>
+💬 An IT student from Sarajevo. <br>
 ⚡ Interested in full-stack development and data science. <br>
 👯 Loves to play guitar and read. <br>
 <hr>
