@@ -1,6 +1,6 @@
 ### Hi! 👋
 <hr/>
-💬 I am an IT student from Sarajevo.
+💬 I am an IT student from Sarajevo. <br>
 ⚡ Interested in full-stack development and data science.
 
 
