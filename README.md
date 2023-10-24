@@ -1,4 +1,4 @@
-# Hi! 👋
+<h1>Hi! 👋</h1>
 <hr/>
 ## About me:
 💬 I am an IT student from Sarajevo. <br>
