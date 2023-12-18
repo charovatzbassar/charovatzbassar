@@ -2,7 +2,7 @@
 <h2>🧍‍♂️ About me: </h2>
 💬 An IT student from Sarajevo. <br>
 ⚡ Interested in full-stack development and data science. <br>
-👯 Loves to play guitar, table tennis and read. <br>
+👯 Loves photography, playing the guitar and reading. <br>
 <h2>🛠️ My stack: </h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
