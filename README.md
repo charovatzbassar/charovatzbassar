@@ -5,7 +5,6 @@
 🔭 Experience in developing user-centric full-stack web applications. <br>
 ⚡ Interested in AI and data science. <br>
 👯 Loves photography, reading, and playing the guitar. <br>
-![](https://komarev.com/ghpvc/?username=charovatzbassar)
 <h2>🛠️ My stack: </h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
