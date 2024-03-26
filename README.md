@@ -1,5 +1,5 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&width=600&height=100&lines=Hi+there!+👋;"></a>
-
+![](https://komarev.com/ghpvc/?username=charovatzbassar)
 <h2>🧍‍♂️ About me: </h2>
 💬 An IT student from Sarajevo. <br>
 🔭 Experience in developing user-centric full-stack web applications. <br>
@@ -16,7 +16,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-![](https://komarev.com/ghpvc/?username=charovatzbassar)
+
 
 <!--
 **charovatzbassar/charovatzbassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
