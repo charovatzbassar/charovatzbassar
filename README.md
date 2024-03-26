@@ -1,5 +1,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&width=600&height=100&lines=Hi+there!+👋;"></a>
-![](https://komarev.com/ghpvc/?username=charovatzbassar)
+<div style="display: flex; justify-content: start;">
+    ![](https://komarev.com/ghpvc/?username=charovatzbassar)
+</div>
 <h2>🧍‍♂️ About me: </h2>
 💬 An IT student from Sarajevo. <br>
 🔭 Experience in developing user-centric full-stack web applications. <br>
