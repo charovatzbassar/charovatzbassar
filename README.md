@@ -2,8 +2,7 @@
 
 <h2>🧍‍♂️ About me: </h2>
 💬 An IT student from Sarajevo. <br>
-🔭 Experience in developing user-centric full-stack web applications. <br>
-⚡ Interested in AI and data science. <br>
+🔭 Interested in developing user-centric full-stack web applications. <br>
 👯 Loves photography, reading, and playing the guitar. <br>
 <h2>🛠️ My stack: </h2>
 <div>
