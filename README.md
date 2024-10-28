@@ -1,8 +1,8 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&width=600&height=100&lines=Hi+there!+👋;"></a>
 
 <h2>🧍‍♂️ About me: </h2>
-💬 An IT student from Sarajevo. <br>
-🔭 Interested in developing user-centric full-stack web applications. <br>
+💬 Full-Stack developer <br>
+🔭 Interested in AI and machine learning. <br>
 👯 Loves photography, reading, and playing the guitar. <br>
 <h2>🛠️ My stack: </h2>
 <div>
